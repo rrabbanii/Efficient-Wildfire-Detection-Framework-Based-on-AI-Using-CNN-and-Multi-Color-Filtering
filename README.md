@@ -1,5 +1,5 @@
 # Efficient Wildfire Detection Framework Based on AI Using CNN and Multi-Color Filtering
-## Soon to be published at an international conference in 2024
+## Published at IEEE Conference on Artificial Intelligence
 
 ### Setup environment
 ```
