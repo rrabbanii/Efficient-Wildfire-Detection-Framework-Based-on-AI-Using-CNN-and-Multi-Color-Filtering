@@ -1,6 +1,6 @@
 # Efficient Wildfire Detection Framework Based on AI Using CNN and Multi-Color Filtering
 ## Published at IEEE Conference on Artificial Intelligence
-
+https://ieeexplore.ieee.org/document/10605400
 ### Setup environment
 ```
 conda create --name main-ds python=3.10
